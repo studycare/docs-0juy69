@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-keohh4.indcuan.cfd/sitemap.xml
